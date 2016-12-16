@@ -1,0 +1,11 @@
+.entry{
+  border: 1px solid lightgray;
+}
+
+.col{
+  margin: 5px 10px;
+}
+
+.country-name{
+  font-weight: bold;
+}

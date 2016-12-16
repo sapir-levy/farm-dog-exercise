@@ -1,0 +1,16 @@
+.header{
+  background-color: black;
+  text-align: center;
+}
+
+.open-panel-btn{
+  background-color: black;
+  color: white;
+  border: none;
+}
+
+.open-panel-btn:hover{
+  background-color: gray;
+}
+
+

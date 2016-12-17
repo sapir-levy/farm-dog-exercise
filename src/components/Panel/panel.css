@@ -1,0 +1,23 @@
+.panel-container{
+  display: inline-block;
+  border: 1px solid black;
+  width: 45%;
+  background-color: #f9f9f7;
+}
+
+.title{
+  display: inline-block;
+  margin: 20px 10px;
+}
+.close-btn{
+  display: inline-block;
+  border-radius: 50px;
+  color:white;
+  background-color: lightgray;
+  border: none;
+}
+
+.close-btn:hover{
+  background-color: gray;
+}
+
